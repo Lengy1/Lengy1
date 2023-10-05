@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Lengy1
 
-## Wanting o be A  Full-Stack Web Developer
+## Wanting to be A  Full-Stack Web Developer
 
 - 🔭 I’m currently Studying on HDU
 
