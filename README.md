@@ -13,7 +13,7 @@
 
 ## 😺Sites!
 
-##### Developing...
+Developing...
 
 ## 💻Technology Stack
 
@@ -27,7 +27,7 @@
 
 ## 💬How to reach me
 
-##### QQ:812808399
+QQ:812808399
 
-##### E-mail:lengy1ovo@gmail.com    
+E-mail:lengy1ovo@gmail.com    
 
