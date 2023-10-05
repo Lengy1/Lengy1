@@ -7,8 +7,6 @@
 
 - 👯 I’m a noob CTF learner 
 
-- 📫 How to reach me: QQ:
-
   
 
 ## 😺Sites!
